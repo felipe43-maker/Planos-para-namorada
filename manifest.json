@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Minha Rotina",
+  "short_name": "Minha Rotina",
+  "description": "Organize sua rotina, saúde, estudos e momentos especiais.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8fb",
+  "theme_color": "#f7dce5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
